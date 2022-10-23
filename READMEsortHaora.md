@@ -1,8 +1,5 @@
 # repository
-repository
-Hello, world!
-print('hello')
-i am a new developer
+
 
 сортировка хаора(Быстрая сортировка используется в стандарте языка C++, в частности в методе sort структуры данных list)
 
